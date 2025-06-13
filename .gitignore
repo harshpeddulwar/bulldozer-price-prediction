@@ -1,5 +1,11 @@
-.ipynb_checkpoints/
-env/
 *.csv
 *.tsv
 *.xlsx
+
+env/
+
+__pycache__/
+*.pyc
+*.pyo
+
+.vscode/
