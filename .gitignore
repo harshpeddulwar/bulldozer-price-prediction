@@ -9,3 +9,10 @@ __pycache__/
 *.pyo
 
 .vscode/
+
+Data/bluebook-for-bulldozers/Train.csv
+Data/bluebook-for-bulldozers/TrainAndValid.csv
+Data/bluebook-for-bulldozers/train_tmp.csv
+Data/bluebook-for-bulldozers/Valid.csv
+Data/bluebook-for-bulldozers/Test.csv
+Data/bluebook-for-bulldozers/TrainAndValid.csv.gz
